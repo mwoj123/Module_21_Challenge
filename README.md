@@ -1,4 +1,4 @@
-# Creating a New Token
+# Creating a New Token (ERC-20)
 
 Below are screen shots of the step by step process for creating the new KaceiCoin ERC-20 token
 
